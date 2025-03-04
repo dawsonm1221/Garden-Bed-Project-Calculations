@@ -1,0 +1,1 @@
+Attached is the python script used to calculate the budget and timeline for the garden bed project, the risk assessment, the JCL analysis, seed rotational schedule, the NPV analysis, and the Payback Period.
